@@ -1,17 +1,20 @@
 <div align="center">
 
-<img src="./3d-animation.gif" width="100%" alt="VINIL P 3D Animated Banner" />
+<img src="./vinil-p-3d-banner.gif" width="100%" alt="VINIL P 3D animated banner">
 
 # VINIL P
 
-### 🤖 Agentic AI with FullStack Developer
+### 🤖 Agentic AI • FullStack Developer
 
 <p>
-  <a href="https://www.linkedin.com/in/vinil-softwaredeveloper/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://github.com/Vinil-Official">
-    <img src="https://img.shields.io/badge/GitHub-Vinil--Official-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Vinil--Official-111827?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/vinil-softwaredeveloper/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-10B981?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -19,98 +22,157 @@
 
 ---
 
-## `// 01_SYSTEMS` — About Me
+## ⚡ `01 // PROFILE`
 
-> **Architecting autonomous intelligence, distributed workflows, and modern full-stack systems.**
+<table>
+<tr>
+<td width="50%">
 
-| Status | Profile |
-|---|---|
-| 🤖 | Agentic AI Developer |
-| 💻 | FullStack Developer |
-| 🧠 | AI & Machine Learning Enthusiast |
-| 🚀 | Builder & Problem Solver |
-| 📚 | Always Learning |
+### 🧠 What I Build
 
----
+- 🤖 Agentic AI applications
+- 🌐 FullStack web applications
+- 🧠 AI & Machine Learning solutions
+- 📊 Data-driven applications
+- ⚙️ Java / Spring Boot backends
 
-## `// 02_TECH_STACK`
+</td>
+<td width="50%">
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nextjs,nodejs,spring,mysql,mongodb,redis,aws,azure,docker,git,github&perline=9" alt="Technology Stack" />
-
-</div>
-
-### 🤖 AI / ML
-
-`Python` `TensorFlow` `PyTorch` `Machine Learning` `Deep Learning` `Agentic AI` `LangGraph`
-
-### ⚙️ Backend & Data
-
-`Java` `Spring Boot` `Node.js` `MySQL` `MongoDB` `Redis` `SQL`
-
----
-
-## `// 03_PROJECTS`
-
-<div align="center">
-
-| 🚀 Project | Focus |
-|---|---|
-| 🤖 **Agentic AI Systems** | Autonomous AI agents and intelligent workflows |
-| 🧠 **AI / ML Projects** | Machine learning and deep learning applications |
-| 🌐 **FullStack Applications** | Modern frontend + backend systems |
-| 📊 **Data Science Projects** | Data analysis, visualization and prediction |
-
-</div>
-
----
-
-## `// 04_GITHUB_STATS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vinil-Official&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinil-Official&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Vinil-Official&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## `// 05_ACTIVITY_STREAM`
+### 🎯 Current Focus
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│ VINIL_AI_RUNTIME                                    │
-├─────────────────────────────────────────────────────┤
-│ [ONLINE]  Agentic AI experiments                    │
-│ [BUILD]   FullStack applications                    │
-│ [LEARN]   New AI / ML systems                       │
-│ [SHIP]    Projects → Production                     │
-└─────────────────────────────────────────────────────┘
+Agentic AI
+LLM Applications
+LangGraph
+Spring Boot
+React
+Machine Learning
+Cloud & Deployment
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 `02 // TECH STACK`
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+### Database • Cloud • Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,aws,azure,git,github,docker" />
+
+</div>
+
+---
+
+## 🚀 `03 // PROJECTS`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Agentic AI Systems
+
+Building intelligent agents that can reason, use tools and execute multi-step tasks.
+
+</td>
+<td width="50%">
+
+### 🧠 AI / ML Projects
+
+Machine learning and deep learning solutions for practical problems.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🌐 FullStack Applications
+
+Modern React interfaces with scalable backend services.
+
+</td>
+<td>
+
+### 📊 Data Science Projects
+
+Data analysis, visualization and predictive modeling.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 `04 // GITHUB`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vinil-Official&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinil-Official&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Vinil-Official&theme=tokyonight&hide_border=true" width="70%">
+
+</div>
+
+---
+
+## 🖥️ `05 // ACTIVITY STREAM`
+
+```text
+┌──────────────────────────────────────────────────────┐
+│ VINIL_RUNTIME                                        │
+├──────────────────────────────────────────────────────┤
+│ [✓] Building Agentic AI applications                 │
+│ [✓] Developing Spring Boot services                  │
+│ [✓] Exploring LLM + LangGraph workflows              │
+│ [✓] Learning • Experimenting • Shipping              │
+└──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `// 06_CONNECT`
+## 🔗 `06 // CONNECT`
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/vinil-softwaredeveloper/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 <a href="https://github.com/Vinil-Official">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-111827?style=for-the-badge&logo=github">
 </a>
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/vinil-softwaredeveloper/">
+<img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
 
-**⚡ Building intelligent systems. Learning continuously. Shipping boldly.**
+</div>
+
+<br>
+
+<div align="center">
+
+**Building intelligent systems. Learning continuously. Shipping boldly.**
 
 </div>
